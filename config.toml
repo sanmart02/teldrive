@@ -1,0 +1,9 @@
+[db]
+data-source = "postgresql://neondb_owner:hmyBTkjO5G9F@ep-delicate-shape-a5q0kvq9.us-east-2.aws.neon.tech/neondb?sslmode=require"
+
+[jwt]
+secret = "abcd"
+
+[tg]
+app-id = 
+app-hash = "fwfwfwf"
