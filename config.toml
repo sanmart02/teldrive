@@ -1,9 +1,9 @@
 [db]
-data-source = "postgresql://neondb_owner:hmyBTkjO5G9F@ep-delicate-shape-a5q0kvq9.us-east-2.aws.neon.tech/neondb?sslmode=require"
+data-source "postgresql://postgres:Martins1#@db.zpdmzizpcumguvatfaam.supabase.co:5432/postgres"
 
 [jwt]
-secret = "abcd"
+secret = "258c208029cf204e6b880ceb456f00ebe53c79cb6b234a7f62ba2c18004186cc00bd3f8feb44c9aa516a067fd8de996d09d5ea8ebbd8643aeb3ad8475442ce05338d7b02d7b3d5d199339a376c995676adbb8884da8bce6572aa32106f43e21773627c534f3d135fc19c6e2208c409f7c93746d213325a0f72829ec566d224bd28c93de29958d5e3af913d09cedc6fce22b7b4637b16cf405e99f6424be705535eea16a774932ed9c76f08dd7b34e34b9ea4dbeaf5f9ad95174ecf11329b4c89ada455619143098d5d5a88844973b2adb1c3a7cb3269a2a7636a00a39578f1053fee795c02c3438044af4c60a5de30b0964a517a093cccd0bc7fd06da1d9f385"
 
 [tg]
-app-id = 
-app-hash = "fwfwfwf"
+app-id = 28400038
+app-hash = "ee7fd645268187b9bae24a3512fbcfaf"
